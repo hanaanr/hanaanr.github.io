@@ -5,10 +5,9 @@ collection: portfolio
 share: false
 ---
 
-Building a DuckDB extension that enables decentralized preservation of at-risk datasets through BitTorrent protocols. The tool removes single points of failure and corporate control, allowing communities to independently preserve and query critical climate, health, and environmental data with built-in integrity verification.
+Collaborating on a DuckDB extension enabling decentralized, community-maintained preservation of at-risk datasets through BitTorrent protocols. Currently focused on at-risk climate, environmental and health datasets facing potential removal or restricted access. 
 
-This project started during the Equitech Futures' People's Data Stewardship Hackathon, which focused on community-centered approaches to data governance and stewardship.
-
-Please reach out if you'd like to learn more or collaborate! 
+Presented at the People's Data Stewardship Hackathon. Project ongoing. 
 
 Collaborators: Bernardo Gameiro, Praggya Ayshwarya, Marcell Juhász
+(Please reach out if you'd like to learn more or collaborate!)

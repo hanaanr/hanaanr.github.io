@@ -11,6 +11,7 @@ Found that 95% of policies require college-level reading skills, with the averag
 
 Observed a slightly surprising pattern: data-intensive industries (social media, advertising) appear to maintain slightly more readable policies than other sectors, though all remain largely inaccessible. Non-data-intensive industries showed faster decline in readability.
 
+One plot from the work is shown here. Note that a higher score means a harder-to-read text. 
 ![Alt text](/images/flesch.png)
 
 

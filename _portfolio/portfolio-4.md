@@ -4,8 +4,8 @@ excerpt: "Interactive dashboard strengthening transparency and accountability in
 collection: portfolio
 share: false
 ---
-Co-built an interactive data dashboard for Kenyan government officials and private consultants (Athena Infonomics) working on water infrastructure management and regulation. The tool strengthens transparency and accountability by making complex infrastructure data accessible and actionable for decision-makers.
 
-Authored comprehensive documentation and stakeholder briefings that translated statistical findings into policy recommendations, bridging the gap between technical analysis and public sector implementation.
+Co-built a data dashboard for Kenyan government officials and consultants managing public water infrastructure. Helped make complex infrastructure data accessible to decision-makers working in regulation and resource allocation in a sector facing significant transparency challenges.​
 
-Completed as part of Equitech Futures' Applied Data Scholar program, focused on applying data science to social impact challenges.
+Wrote documentation and stakeholder briefings translating statistical findings into policy recommendations. Bridged technical analysis and government implementation, turning data into something officials could actually use, while addressing an important public accountability challenge. 
+

@@ -4,6 +4,6 @@ excerpt: "Infrastructure analysis and LLM optimization for open-source civic tec
 collection: portfolio
 share: false
 ---
-Evaluated AI deployment options for the Agora Citizen Network, analyzing cost-performance trade-offs across different technical configurations to support informed infrastructure decisions for an open-source civic engagement platform.
+Researched AI (LLM) infrastructure for Agora Citizen Network, a privacy-conscious, open-source platform for depolarizing political discussions. Provided cost-performance analysis to help the team make informed technical decisions within budget constraints.​
 
-Improved transparency and accessibility of digital civic discussions through prompt engineering, optimizing AI-generated summaries and topic labels to make community deliberations more legible and participatory.
+Improved how the platform communicates complex civic discussions to users. Tested different AI models and refined prompts to make community deliberations clearer and more accessible (with summaries, topics, labels), helping citizens understand where people agree and disagree on divisive issues.
