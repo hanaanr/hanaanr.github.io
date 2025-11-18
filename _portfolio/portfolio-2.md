@@ -2,6 +2,7 @@
 title: "Resilient, Decentralized Data Infrastructure"
 excerpt: "Enabling decentralized, community-maintained preservation of critical at-risk datasets. "
 collection: portfolio
+share: false
 ---
 
 Building a DuckDB extension that enables decentralized preservation of at-risk datasets through BitTorrent protocols. The tool removes single points of failure and corporate control, allowing communities to independently preserve and query critical climate, health, and environmental data with built-in integrity verification.

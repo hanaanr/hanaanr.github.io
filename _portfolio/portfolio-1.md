@@ -2,13 +2,15 @@
 title: "Hidden in Plain Sight"
 excerpt: "Large-scale investigation on opacity in digital privacy disclosures"
 collection: portfolio
+share: false
 ---
 
-Analyzed 100,000+ privacy policies across two decades to expose a critical barrier to informed consent: **most require college-level reading skills**, with complexity increasing over time.
+Analyzed privacy policies across two decades using the Princeton-Leuven Longitudinal Corpus. Used readability metrics (Flesch-Kincaid, SMOG) to measure comprehension difficulty across 130,000+ websites.
 
-Using statistical modeling on the Princeton-Leuven Longitudinal Corpus, uncovered a counterintuitive pattern. Data-intensive industries (social media, advertising) maintain *slightly* more readable policies than other sectors, though all remain inaccessible to average users.
+Found that 95% of policies require college-level reading skills, with the average demanding 15 years of education. Readability has significantly declined over time; policies are getting harder to comprehend, which is a serious obstacle to informed consent. 
 
-Technical complexity in legal documents can systematically undermine users' ability to make informed decisions about their data.
+Observed a slightly surprising pattern: data-intensive industries (social media, advertising) appear to maintain slightly more readable policies than other sectors, though all remain largely inaccessible. Non-data-intensive industries showed faster decline in readability.
 
-Research as part of Applied Data Institute, Equitech Futures. 
-Mentored by Abhilash Mishra & Labbi Karmacharya.
+![Alt text](/images/flesch.png)
+
+

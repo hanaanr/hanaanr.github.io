@@ -2,6 +2,7 @@
 title: "AI Infrastructure for Civic Engagement"
 excerpt: "Infrastructure analysis and LLM optimization for open-source civic tech platform. "
 collection: portfolio
+share: false
 ---
 Evaluated AI deployment options for the Agora Citizen Network, analyzing cost-performance trade-offs across different technical configurations to support informed infrastructure decisions for an open-source civic engagement platform.
 

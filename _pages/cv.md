@@ -19,7 +19,7 @@ Education
 * B.S. in Physics, New York University, 2021
   * GPA: 3.743/4.0 
 
-Work Experience
+Experience
 ======
 <div style="margin-bottom: 20px;">
   <p style="margin-bottom: 5px;"><strong>Open Source Contributor</strong> | <a href="https://www.agoracitizen.network/">Agora Citizen Network</a> | Feb - June 2025</p>
