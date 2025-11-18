@@ -1,7 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Hidden in Plain Sight"
+excerpt: "Large-scale investigation on opacity in digital privacy disclosures"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Analyzed 100,000+ privacy policies across two decades to expose a critical barrier to informed consent: **most require college-level reading skills**, with complexity increasing over time.
+
+Using statistical modeling on the Princeton-Leuven Longitudinal Corpus, uncovered a counterintuitive pattern. Data-intensive industries (social media, advertising) maintain *slightly* more readable policies than other sectors, though all remain inaccessible to average users.
+
+Technical complexity in legal documents can systematically undermine users' ability to make informed decisions about their data.
+
+Research as part of Applied Data Institute, Equitech Futures. 
+Mentored by Abhilash Mishra & Labbi Karmacharya.

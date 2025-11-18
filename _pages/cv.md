@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: # "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,11 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+* M.S. in Physics, Università di Catania, 2023
+  * Erasmus Mundus Scholar, fully-funded by the European Union
+  * Semesters in Italy, France, and Spain
+  * Grade: 110/110 cum laude
+* B.S. in Physics, New York University, 2021
+  * GPA: 3.743/4.0 
+
+Work Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -34,31 +38,18 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research & Analysis
+* Data Science
+* Volunteer & Project Management
+* Technical Writing & Stakeholder Communication
 
-Publications
+
+
+Training & Professional Development
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* AI Safety Fundamentals: Intro to Transformative AI (BlueDot Impact), 2025
+* Accelerator (6-month cohort): LedBy Foundation, 2024  
+  * Leadership, negotiation, workplace communication with mentorship component
+
+
+ 
