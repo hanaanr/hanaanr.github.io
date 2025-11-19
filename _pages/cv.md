@@ -9,16 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-
-* M.S. in Physics, Università di Catania, 2023
-  * Erasmus Mundus Scholar, fully-funded by the European Union
-  * Semesters in Italy, France, and Spain
-  * Grade: 110/110 cum laude
-* B.S. in Physics, New York University, 2021
-  * GPA: 3.743/4.0 
-
 Experience
 ======
 <div style="margin-bottom: 20px;">
@@ -76,6 +66,16 @@ Experience
 * Contributed to design and development of education program for refugee communities in Athens
 
 <br>
+
+Education
+======
+
+* M.S. in Physics, Università di Catania, 2023
+  * Erasmus Mundus Scholar, fully-funded by the European Union
+  * Semesters in Italy, France, and Spain
+  * Grade: 110/110 cum laude
+* B.S. in Physics, New York University, 2021
+  * GPA: 3.743/4.0 
 
 Skills
 ======

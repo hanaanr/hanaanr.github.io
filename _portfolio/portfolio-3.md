@@ -1,6 +1,6 @@
 ---
-title: "AI Infrastructure for Civic Engagement"
-excerpt: "Infrastructure analysis and LLM optimization for open-source civic tech platform. "
+title: "AI for Civic Engagement"
+excerpt: "Infrastructure and optimization for open-source civic tech. "
 collection: portfolio
 share: false
 ---

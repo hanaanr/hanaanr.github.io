@@ -1,6 +1,6 @@
 ---
 title: "Resilient, Decentralized Data Infrastructure"
-excerpt: "Enabling decentralized, community-maintained preservation of critical datasets. "
+excerpt: "Decentralized, community-maintained preservation of critical data."
 collection: portfolio
 share: false
 ---
