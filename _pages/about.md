@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a * * driven by responsibility, transparency and accountability in tech. Passionate about privacy, free software, and open source.
+I'm driven by responsibility, transparency and accountability in tech. 
 
-I've built experience analyzing web privacy policy readability, investigating torrent privacy risks, and optimizing AI infrastructure for civic tech. I'm a data analyst, researcher, manager ~  fluid in the interstices, jack of all trades, a happy generalist.
+I've worked on analyzing web privacy policy readability, supporting community-led data protection, and optimizing AI infrastructure for civic tech. Broadly speaking, I am a technologist. I've been a data analyst, researcher, manager ~ primarily working on projects in the public and/or non-profit and/or public interest tech start-up space. 
 
-I enjoy using the tools at our disposal to prod at opaque big tech entities that prefer to stay opaque.
+I'm passionate about privacy, free software and open-source. I believe in using these tools at our disposal to prod at opaque tech entities that prefer to stay opaque.
