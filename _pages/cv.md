@@ -26,8 +26,8 @@ Experience
   <p style="margin-bottom: 5px;"><strong>Applied Data Scholar</strong> | <a href="https://www.equitechfutures.com/">Equitech Futures</a> | Oct - Dec 2024</p>
   <p style="margin: 8px 0;">
     <span style="background-color:#E3F2FD; color:#1565C0; padding:4px 10px; border-radius:4px; font-size:0.9em; margin-right:6px;">Web Privacy</span>
-    <span style="background-color:#E8F5E9; color:#2E7D32; padding:4px 10px; border-radius:4px; font-size:0.9em; margin-right:6px;">Data Dashboards</span>
-    <span style="background-color:#FFF3E0; color:#E65100; padding:4px 10px; border-radius:4px; font-size:0.9em;">Policy Analysis</span>
+    <span style="background-color:#E8F5E9; color:#2E7D32; padding:4px 10px; border-radius:4px; font-size:0.9em; margin-right:6px;">Dashboards</span>
+    <span style="background-color:#FFF3E0; color:#E65100; padding:4px 10px; border-radius:4px; font-size:0.9em;">AI for Social Impact</span>
   </p>
 </div>
 * Completed selective 10-week intensive program in applied data science and AI for social impact, with cohort-based learning and individual faculty mentorship
