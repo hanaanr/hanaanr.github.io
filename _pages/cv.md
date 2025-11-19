@@ -77,13 +77,6 @@ Education
 * B.S. in Physics, New York University, 2021
   * GPA: 3.743/4.0 
 
-Skills
-======
-* Research & Analysis
-* Data Science
-* Volunteer & Project Management
-* Technical Writing & Stakeholder Communication
-
 <br>
 
 Training & Professional Development
@@ -92,5 +85,11 @@ Training & Professional Development
 * Accelerator (6-month cohort): LedBy Foundation, 2024  
   * Leadership, negotiation, workplace communication with mentorship component
 
+<br>
 
- 
+Skills
+======
+* Research & Analysis
+* Data Science
+* Volunteer & Project Management
+* Technical Writing & Stakeholder Communication
