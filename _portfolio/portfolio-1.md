@@ -1,6 +1,6 @@
 ---
 title: "Hidden in Plain Sight"
-excerpt: "Large-scale investigation on opacity in digital privacy disclosures"
+excerpt: "Large-scale investigation on opacity in digital privacy disclosures."
 collection: portfolio
 share: false
 ---

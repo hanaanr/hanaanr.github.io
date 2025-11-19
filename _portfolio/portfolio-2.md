@@ -1,6 +1,6 @@
 ---
 title: "Resilient, Decentralized Data Infrastructure"
-excerpt: "Enabling decentralized, community-maintained preservation of critical at-risk datasets. "
+excerpt: "Enabling decentralized, community-maintained preservation of critical datasets. "
 collection: portfolio
 share: false
 ---
@@ -9,5 +9,11 @@ Collaborating on a DuckDB extension enabling decentralized, community-maintained
 
 Presented at the People's Data Stewardship Hackathon. Project ongoing. 
 
-Collaborators: Bernardo Gameiro, Praggya Ayshwarya, Marcell Juhász
-(Please reach out if you'd like to learn more or collaborate!)
+Collaborators: Bernardo Gameiro, Praggya Ayshwarya, Marcell Juhász. Feel free to reach out if you'd like to learn more or collaborate.
+
+<embed src="https://hanaanr.github.io/website/files/People's_Data_Stewardship.pdf" 
+       width="100%" 
+       height="700" 
+       type='application/pdf'>
+
+
