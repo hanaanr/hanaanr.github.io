@@ -9,3 +9,7 @@ Co-built a data dashboard for Kenyan government officials and consultants managi
 
 Wrote documentation and stakeholder briefings translating statistical findings into policy recommendations. Bridged technical analysis and government implementation, turning data into something officials could actually use, while addressing an important public accountability challenge. 
 
+<embed src="https://hanaanr.github.io/files/wasreb.pdf" 
+       width="600%" 
+       height="700" 
+       type='application/pdf'>

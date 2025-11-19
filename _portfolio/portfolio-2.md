@@ -11,9 +11,8 @@ Presented at the People's Data Stewardship Hackathon. Project ongoing.
 
 Collaborators: Bernardo Gameiro, Praggya Ayshwarya, Marcell Juhász. Feel free to reach out if you'd like to learn more or collaborate.
 
-<embed src="https://hanaanr.github.io/website/files/People's_Data_Stewardship.pdf" 
-       width="100%" 
+<embed src="https://hanaanr.github.io/files/People's_Data_Stewardship.pdf" 
+       width="600%" 
        height="700" 
        type='application/pdf'>
-
 
