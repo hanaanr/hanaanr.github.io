@@ -74,7 +74,7 @@ Education
   * Erasmus Mundus Scholar, fully-funded by the European Union
   * Semesters in Italy, France, and Spain
   * Grade: 110/110 cum laude
-* B.S. in Physics, New York University, 2021
+* B.S. in Physics, New York University Abu Dhabi, 2021
   * GPA: 3.743/4.0 
 
 <br>
