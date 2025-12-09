@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm driven by responsibility, transparency and accountability in tech. 
+I am driven by transparency and trust in the tools and systems we use every day.
 
-I've worked on web privacy policy analysis, decentralized data protection, and AI infrastructure and accessibility for civic tech. I've been a researcher, manager, and data analyst - primarily working in the public interest space. 
+I have worked on web privacy policy analysis, decentralized data preservation, and implementing LLMs for civic tech. I am passionate about supporting privacy, free software and open-source through my work. 
 
-I'm passionate about privacy, free software and open-source, and I enjoy prodding at opaque tech entities that prefer to stay opaque. 
+Currently, I’m training in cybersecurity and working towards a penetration testing certification from Red Team Academy (remote). I'm especially curious about internet infrastructure, and exploring how privacy, openness, and accessibility translate down to the network and routing levels. 
 
-Funnily enough, I trained as a physicist, and I find that it helps me approach closed systems with healthy skepticism. 
+Funnily enough, I originally trained as a physicist. I find that it helps me probe foundational infrastructure (atoms, the internet) with curiosity about how it works, how it fails, and what it means to be robust and reliable.
 
 
 
