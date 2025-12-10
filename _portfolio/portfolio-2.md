@@ -1,11 +1,11 @@
 ---
-title: "Resilient, Decentralized Data Infrastructure"
+title: "Resilient Data Infrastructure"
 excerpt: "Decentralized, community-maintained preservation of critical data."
 collection: portfolio
 share: false
 ---
 
-Collaborating on a DuckDB extension enabling decentralized, community-maintained preservation of at-risk datasets through BitTorrent protocols. Currently focused on at-risk climate, environmental and health datasets facing potential removal or restricted access. 
+Collaborating on a DuckDB extension that uses BitTorrent protocols to enable distributed, verifiable, community-maintained preservation of public datasets at risk of removal or restricted access. Currently focused on at-risk climate, environmental and health datasets facing potential removal or restricted access. 
 
 Presented at the People's Data Stewardship Hackathon. Project ongoing. 
 <embed src="https://hanaanr.github.io/files/data_stewardship.pdf" 

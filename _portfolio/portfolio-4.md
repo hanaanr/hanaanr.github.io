@@ -1,6 +1,6 @@
 ---
-title: "Data Dashboard for Public Water Infrastructure"
-excerpt: "Transparency and accountability in public infrastructure management. "
+title: "Data Dashboard for Public Infrastructure"
+excerpt: "Transparency and accountability in public water management. "
 collection: portfolio
 share: false
 ---
