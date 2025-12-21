@@ -23,7 +23,7 @@ repository               : "hanaanr/hanaanr.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "imagee.jpeg"
+  avatar           : "profile1.png"
   name             : "Hanaan Shafi"
   pronouns         : "she/her"  
   bio              : # ""
