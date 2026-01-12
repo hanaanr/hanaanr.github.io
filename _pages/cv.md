@@ -28,14 +28,14 @@ Current Training
 Experience
 ======
 <div style="margin-bottom: 20px;">
-  <p style="margin-bottom: 5px;"><strong>Open Source Contributor</strong> | <a href="https://www.agoracitizen.network/">Agora Citizen Network</a> | Feb - June 2025</p>
+  <p style="margin-bottom: 5px;"><strong>Open Source Contributor</strong> | <a href="https://www.agoracitizen.network/">Agora Citizen Network</a> | Feb. - Jun. 2025</p>
   <p style="margin: 8px 0;">
     <span style="background-color:#E8F5E9; color:#2E7D32; padding:4px 10px; border-radius:4px; font-size:0.9em; margin-right:6px;">Civic Tech</span>
     <span style="background-color:#F3E5F5; color:#6A1B9A; padding:4px 10px; border-radius:4px; font-size:0.9em;">Open Source</span>
   </p>
 </div>
-* Conducted infrastructure analysis evaluating AI deployment cost-performance trade-offs.
-* Optimized LLM-generated summaries, labels, and topic assignment through prompt engineering for civic discussions.
+* Engineered system prompts and tuned inference parameters (Temperature, Top-P, Top-K) to improve the semantic accuracy of automated summaries and topic assignment for a digital democracy platform.
+* Conducted a comparative analysis of self-hosted EC2 infrastructure versus managed APIs (DeepSeek, OpenAI, Anthropic, Google) estimating deployment costs to inform backend architecture selection. 
 
 
 <div style="margin-bottom: 20px;">
