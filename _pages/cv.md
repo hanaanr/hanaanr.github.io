@@ -11,11 +11,10 @@ redirect_from:
 Current Training
 ======
 <div style="margin-bottom: 20px;">
-  <p style="margin-bottom: 5px;"><strong>Penetration Testing</strong> | RedTeam Hacker Academy (remote) | September 2025 – present</p>
+  <p style="margin-bottom: 5px;"><strong>Penetration Testing</strong> | RedTeam Hacker Academy (remote) | Sep. 2025 — present</p>
   <p style="margin: 8px 0;">
     <span style="background-color:#ffebee; color:#c62828; padding:4px 10px; border-radius:4px; font-size:0.9em; margin-right:6px;">Certification</span>
     <span style="background-color:#e3f2fd; color:#1565c0; padding:4px 10px; border-radius:4px; font-size:0.9em; margin-right:6px;">Cybersecurity</span>
-    <span style="background-color:#f3e5f5; color:#6a1b9a; padding:4px 10px; border-radius:4px; font-size:0.9em;">Red Teaming</span>
   </p>
 </div>
 * Certified Penetration Tester course focused on modern infrastructure and application security.
@@ -28,7 +27,7 @@ Current Training
 Experience
 ======
 <div style="margin-bottom: 20px;">
-  <p style="margin-bottom: 5px;"><strong>Open Source Contributor</strong> | <a href="https://www.agoracitizen.network/">Agora Citizen Network</a> | Feb. - Jun. 2025</p>
+  <p style="margin-bottom: 5px;"><strong>Open Source Contributor</strong> | <a href="https://www.agoracitizen.network/">Agora Citizen Network</a> | Feb. — Jun. 2025</p>
   <p style="margin: 8px 0;">
     <span style="background-color:#E8F5E9; color:#2E7D32; padding:4px 10px; border-radius:4px; font-size:0.9em; margin-right:6px;">Civic Tech</span>
     <span style="background-color:#F3E5F5; color:#6A1B9A; padding:4px 10px; border-radius:4px; font-size:0.9em;">Open Source</span>
@@ -39,7 +38,7 @@ Experience
 
 
 <div style="margin-bottom: 20px;">
-  <p style="margin-bottom: 5px;"><strong>Applied Data Scholar</strong> | <a href="https://www.equitechfutures.com/">Equitech Futures</a> | Oct - Dec 2024</p>
+  <p style="margin-bottom: 5px;"><strong>Applied Data Scholar</strong> | <a href="https://www.equitechfutures.com/">Equitech Futures</a> | Oct. — Dec. 2024</p>
   <p style="margin: 8px 0;">
     <span style="background-color:#E3F2FD; color:#1565C0; padding:4px 10px; border-radius:4px; font-size:0.9em; margin-right:6px;">Privacy</span>
     <span style="background-color:#E8F5E9; color:#2E7D32; padding:4px 10px; border-radius:4px; font-size:0.9em; margin-right:6px;">Data Science</span>
@@ -50,7 +49,7 @@ Experience
 
 
 <div style="margin-bottom: 20px;">
-  <p style="margin-bottom: 5px;"><strong>Research Assistant, Applied ML</strong> | <a href="https://www.lpc-caen.in2p3.fr/">Laboratoire de Physique Corpusculaire</a> | Sept 2022 - Jan 2023</p>
+  <p style="margin-bottom: 5px;"><strong>Research Assistant, Applied ML</strong> | <a href="https://www.lpc-caen.in2p3.fr/">Laboratoire de Physique Corpusculaire</a> | Sep. 2022 — Jan. 2023</p>
   <p style="margin: 8px 0;">
     <span style="background-color:#FCE4EC; color:#C2185B; padding:4px 10px; border-radius:4px; font-size:0.9em; margin-right:6px;">Machine Learning</span>
     <span style="background-color:#E0F2F1; color:#00695C; padding:4px 10px; border-radius:4px; font-size:0.9em;">Research</span>
@@ -61,7 +60,7 @@ Experience
 
 
 <div style="margin-bottom: 20px;">
-  <p style="margin-bottom: 5px;"><strong>Regional Manager & Research Assistant</strong> | <a href="https://coronanet-project.org/">CoronaNet Research Project</a> | Sept - Dec 2020</p>
+  <p style="margin-bottom: 5px;"><strong>Regional Manager & Research Assistant</strong> | <a href="https://coronanet-project.org/">CoronaNet Research Project</a> | Sep. — Dec. 2020</p>
   <p style="margin: 8px 0;">
     <span style="background-color:#E8F5E9; color:#2E7D32; padding:4px 10px; border-radius:4px; font-size:0.9em; margin-right:6px;">Team Leadership</span>
     <span style="background-color:#FFF3E0; color:#E65100; padding:4px 10px; border-radius:4px; font-size:0.9em; margin-right:6px;">Research</span>
@@ -73,7 +72,7 @@ Experience
 
 
 <div style="margin-bottom: 20px;">
-  <p style="margin-bottom: 5px;"><strong>Intern</strong> | <a href="https://findingrefugegr.org/">Finding Refuge</a> | June - Sept 2020</p>
+  <p style="margin-bottom: 5px;"><strong>Intern</strong> | <a href="https://findingrefugegr.org/">Finding Refuge</a> | Jun. — Sep. 2020</p>
   <p style="margin: 8px 0;">
     <span style="background-color:#F3E5F5; color:#6A1B9A; padding:4px 10px; border-radius:4px; font-size:0.9em; margin-right:6px;">Program Management</span>
     <span style="background-color:#E8F5E9; color:#2E7D32; padding:4px 10px; border-radius:4px; font-size:0.9em;">Community Outreach</span>
