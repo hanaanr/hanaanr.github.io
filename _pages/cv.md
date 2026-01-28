@@ -18,8 +18,7 @@ Current Training
   </p>
 </div>
 * Certified Penetration Tester course focused on modern infrastructure and application security.
-* Topics include network and cybersecurity fundamentals, reconnaissance, scanning, and vulnerability assessment across web, network, and system targets.
-* Working with packet analysis, IDS/IPS and firewall evasion, denial-of-service scenarios, wireless/cloud environments, and clear reporting for non-technical stakeholders.
+* Topics: Network and cybersecurity fundamentals, reconnaissance, scanning, and vulnerability assessment across web, network, and system targets.
 
 <br>
 
@@ -91,14 +90,14 @@ Experience
 
 Education
 ======
-<div style="margin-bottom: 20px;"> <p style="margin-bottom: 5px;"><strong>M.Sc. Physics (Erasmus Mundus Joint Master)</strong> | EU Nuclear Physics Consortium | 2021 — 2023</p> <p style="margin: 4px 0 8px 0; font-size: 0.95em; color: #555;"> <em>Mobility Track: Univ. of Seville (Spain), Univ. of Caen Normandie (France), Univ. of Catania (Italy)</em> </p> <ul style="margin-top: 5px; margin-bottom: 5px;"> <li><strong>Honors:</strong> 110/110 <em>e lode</em> (Highest Distinction).</li> <li><strong>Scholarship:</strong> Awarded fully-funded Erasmus Mundus Scholarship.</li> <li><strong>Thesis:</strong> Conducted at INFN Laboratori Nazionali del Sud (Applied Nuclear Physics).</li> </ul> </div> <div style="margin-bottom: 20px;"> <p style="margin-bottom: 5px;"><strong>B.S. Physics</strong> | New York University Abu Dhabi (NYUAD) | 2017 — 2021</p> <ul style="margin-top: 5px; margin-bottom: 5px;"> <li><strong>GPA:</strong> 3.74/4.0.</li> </ul> </div>
+<div style="margin-bottom: 20px;"> <p style="margin-bottom: 5px;"><strong>M.Sc. Physics (Erasmus Mundus Joint Master)</strong> | EU Nuclear Physics Consortium | 2021 — 2023</p> <p style="margin: 4px 0 8px 0; font-size: 0.95em;"> <em>Mobility Track: Univ. of Seville (Spain), Univ. of Caen Normandie (France), Univ. of Catania (Italy)</em> </p> <ul style="margin-top: 5px; margin-bottom: 5px;"> <li><strong>GPA:</strong> 110/110 <em>e lode</em>.</li> <li> Erasmus Mundus Scholar (EU-EACEA).</li> <li> Thesis at INFN Laboratori Nazionali del Sud in applied nuclear physics.</li> </ul> </div> <div style="margin-bottom: 20px;"> <p style="margin-bottom: 5px;"><strong>B.S. Physics</strong> | New York University Abu Dhabi (NYUAD) | 2017 — 2021</p> <ul style="margin-top: 5px; margin-bottom: 5px;"> <li><strong>GPA:</strong> 3.74/4.0.</li> </ul> </div>
 
 
 <br>
 
 Leadership Development
 =====
-<div style="margin-bottom: 20px;"> <p style="margin-bottom: 5px;"><strong>Accelerator Fellow</strong> | LedBy Foundation | 2024</p> <ul style="margin-top: 5px; margin-bottom: 5px;"> <li>Selected for a 6-month intensive fellowship focused on negotiation, executive communication, and career mentorship.</li> </ul> </div>
+<div style="margin-bottom: 20px;"> <p style="margin-bottom: 5px;"><strong>Accelerator Fellow</strong> | LedBy Foundation | 2024</p> <ul style="margin-top: 5px; margin-bottom: 5px;"> <li> 6-month fellowship focused on negotiation, executive communication, and career mentorship.</li> </ul> </div>
 
 
 
@@ -109,6 +108,6 @@ Leadership Development
 
 Skills
 ======
-**Cybersecurity**: Network, Web, and System Security Fundamentals; Vulnerability Scanning <br>
 **Data Science**: Python, Statistics, Machine Learning, Dashboards & Visualization <br>
-**Research**: Quantitative Research, Technical Writing
+**Research**: Quantitative Research, Technical Writing <br>
+**Cybersecurity**: Network, Web, and System Security Fundamentals <br>
