@@ -11,7 +11,7 @@ redirect_from:
 Current Training
 ======
 <div style="margin-bottom: 20px;">
-  <p style="margin-bottom: 5px;"><strong>Penetration Testing</strong> | Red Team Academy (remote) | Sep. 2025 — present</p>
+  <p style="margin-bottom: 5px;"><strong>Penetration Testing</strong> | Red Team Academy | Sep. 2025 — present</p>
   <p style="margin: 8px 0;">
     <span style="background-color:#ffebee; color:#c62828; padding:4px 10px; border-radius:4px; font-size:0.9em; margin-right:6px;">Certification</span>
     <span style="background-color:#e3f2fd; color:#1565c0; padding:4px 10px; border-radius:4px; font-size:0.9em; margin-right:6px;">Cybersecurity</span>
