@@ -75,6 +75,8 @@ Experience
   </p>
 </div>
 * Supported program development for refugee communities in Athens while managing partner outreach and email communications via Mailchimp.
+
+
 <br>
 
 Cybersecurity Training
@@ -88,6 +90,8 @@ Cybersecurity Training
 </div>
 * Certified Penetration Tester course focused on modern infrastructure and application security.
 * Topics: Network and cybersecurity fundamentals, reconnaissance, scanning, and vulnerability assessment across web, network, and system targets.
+
+
 <br>
 
 Education
