@@ -8,23 +8,17 @@ redirect_from:
 ---
 {% include base_path %}
 
-Current Training
-======
-<div style="margin-bottom: 20px;">
-  <p style="margin-bottom: 5px;"><strong>Penetration Testing</strong> | Red Team Academy | Sep. 2025 — present</p>
-  <p style="margin: 8px 0;">
-    <span style="background-color:#ffebee; color:#c62828; padding:4px 10px; border-radius:4px; font-size:0.9em; margin-right:6px;">Certification</span>
-    <span style="background-color:#e3f2fd; color:#1565c0; padding:4px 10px; border-radius:4px; font-size:0.9em; margin-right:6px;">Cybersecurity</span>
-  </p>
-</div>
-* Certified Penetration Tester course focused on modern infrastructure and application security.
-* Topics: Network and cybersecurity fundamentals, reconnaissance, scanning, and vulnerability assessment across web, network, and system targets.
-
-<br>
-
-
 Experience
 ======
+<div style="margin-bottom: 20px;">
+  <p style="margin-bottom: 5px;"><strong> Research Fellow </strong> | <a href="https://www.equitechfutures.com/ideas"> Equitech Futures </a> | Jan. 2026 — present </p>
+  <p style="margin: 8px 0;">
+    <span style="background-color:#FCE4EC; color:#C2185B; padding:4px 10px; border-radius:4px; font-size:0.9em; margin-right:6px;">Public-Interest AI</span>
+    <span style="background-color:#E8F5E9; color:#2E7D32; padding:4px 10px; border-radius:4px; font-size:0.9em; margin-right:6px;">Data Sovereignty</span>
+  </p>
+</div>
+* Develop actionable guidance on data sovereignty and open-source AI to support builders and institutions advancing public-interest AI.
+
 <div style="margin-bottom: 20px;">
   <p style="margin-bottom: 5px;"><strong>Open Source Contributor</strong> | <a href="https://www.agoracitizen.network/">Agora Citizen Network</a> | Feb. — Jun. 2025</p>
   <p style="margin: 8px 0;">
@@ -73,7 +67,6 @@ Experience
 * Implemented systematic data quality protocols to harmonize multi-source data, ensuring consistency and reliability across distributed research outputs.
 
 
-<!--
 <div style="margin-bottom: 20px;">
   <p style="margin-bottom: 5px;"><strong>Intern</strong> | <a href="https://findingrefugegr.org/">Finding Refuge</a> | Jun. — Sep. 2020</p>
   <p style="margin: 8px 0;">
@@ -81,12 +74,21 @@ Experience
     <span style="background-color:#E8F5E9; color:#2E7D32; padding:4px 10px; border-radius:4px; font-size:0.9em;">Community Outreach</span>
   </p>
 </div>
-* Conducted outreach to potential partner organizations to expand organizational network and collaboration opportunities.
-* Contributed to design and development of education program for refugee communities in Athens.
--->
-
+* Supported program development for refugee communities in Athens while managing partner outreach and email communications via Mailchimp.
 <br>
 
+Cybersecurity Training
+======
+<div style="margin-bottom: 20px;">
+  <p style="margin-bottom: 5px;"><strong>Penetration Testing</strong> | Red Team Academy | Sep. 2025 — Jan. 2026 </p>
+  <p style="margin: 8px 0;">
+    <span style="background-color:#ffebee; color:#c62828; padding:4px 10px; border-radius:4px; font-size:0.9em; margin-right:6px;">Certification</span>
+    <span style="background-color:#e3f2fd; color:#1565c0; padding:4px 10px; border-radius:4px; font-size:0.9em; margin-right:6px;">Cybersecurity</span>
+  </p>
+</div>
+* Certified Penetration Tester course focused on modern infrastructure and application security.
+* Topics: Network and cybersecurity fundamentals, reconnaissance, scanning, and vulnerability assessment across web, network, and system targets.
+<br>
 
 Education
 ======
